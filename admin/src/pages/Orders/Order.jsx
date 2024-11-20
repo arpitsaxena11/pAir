@@ -1,5 +1,5 @@
 import React from 'react'
-import './order.css'
+import './Order.css'
 import { useState } from 'react'
 import { toast } from 'react-toastify'
 import { useEffect } from 'react'
